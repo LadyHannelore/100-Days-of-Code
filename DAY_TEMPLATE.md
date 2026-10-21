@@ -4,16 +4,16 @@
 
 ## What I worked on
 
-<!-- Describe the coding session or link to the project/code. -->
+<!-- I’ll describe my coding session or link to my project/code. -->
 
 ## What I learned
 
-<!-- Note a concept, tool, or technique you learned or practiced. -->
+<!-- I’ll note a concept, tool, or technique I learned or practiced. -->
 
 ## Challenges
 
-<!-- What was difficult, and how did you approach it? -->
+<!-- I’ll describe what was difficult and how I approached it. -->
 
 ## Next
 
-<!-- What will you try or work on next? -->
+<!-- I’ll write what I plan to try or work on next. -->

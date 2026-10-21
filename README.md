@@ -12,17 +12,20 @@ are logged yet; this is the starting point.
 
 ## Daily notes
 
-Each entry can include:
+In each entry, I’ll write about:
 
 - What I worked on
 - What I learned
 - A link to code, a demo, or a resource
 - What I plan to do next
 
-Start a new entry by copying [the daily notes template](DAY_TEMPLATE.md).
+I’ll start each entry by copying [the daily notes template](DAY_TEMPLATE.md).
+
+I’ve put my project ideas and one-day MVP scopes in the
+[100-day project roadmap](ROADMAP.md).
 
 ## Goals
 
-- Build a consistent coding habit
-- Keep a record of progress, including lessons and challenges
-- Finish with a collection of small projects and experiments
+- I want to build a consistent coding habit.
+- I want to keep a record of my progress, lessons, and challenges.
+- I want to finish with a collection of small projects and experiments.
