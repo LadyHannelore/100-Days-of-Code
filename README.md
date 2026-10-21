@@ -5,12 +5,13 @@ I work on, what I learn, and the projects I build along the way.
 
 ## Progress
 
-**0 / 100 days complete**
+**1 / 100 days complete**
 
-I’ll add a day’s notes in `days/day-XX.md` and update this count as I go. No days
-are logged yet; this is the starting point.
+I’ll add a day’s notes in `days/day-XX.md` and update this count as I go.
 
 ## Daily notes
+
+- [Day 1 — Movable Type Page](days/day-01.md)
 
 In each entry, I’ll write about:
 
