@@ -34,7 +34,7 @@ one-day MVP. Each keeps its main learning goal:
 | Day | Project and my one-day MVP | Risk |
 |---:|---|:---:|
 | 1 | **Movable Type Page (complete)** — I rendered entered text as a parchment-style page with a border, randomized ink variation, and printing animations. [Project](https://github.com/LadyHannelore/Movable-Type-Page) · [Day 1 notes](days/day-01.md) | 3 |
-| 2 | **Seven-Element Mana Chart** — I will enter seven values and display them in a radar chart. | 5 |
+| 2 | **Seven-Element Mana Chart (complete)** — I built a dependency-free web app that visualizes seven adjustable elemental affinities in an SVG radar chart. [Project](https://github.com/LadyHannelore/Seven-Element-Mana-Chart) · [Day 2 notes](days/day-02.md) | 5 |
 | 3 | **Tea Party Timing Game** — I will run a short random-event game and see whether I arrive on time. | 4 |
 | 4 | **Library Schumil Reply Bot** — I will match a few keywords to prewritten, characterful replies; no LLM required. | 4 |
 | 5 | **Ditter Board Prototype (scoped)** — I will move two pieces on a small grid and capture a marked tile. | 7 |

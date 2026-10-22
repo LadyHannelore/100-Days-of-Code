@@ -24,5 +24,4 @@ while keeping the text readable and the printing animation clear.
 
 ## Next
 
-Start Day 2: build a Seven-Element Mana Chart that takes seven values and
-displays them in a radar chart.
+Continue with Day 3: build a Tea Party Timing Game with short random events.
