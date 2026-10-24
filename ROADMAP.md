@@ -36,7 +36,7 @@ one-day MVP. Each keeps its main learning goal:
 | 1 | **Movable Type Page (complete)** — I rendered entered text as a parchment-style page with a border, randomized ink variation, and printing animations. [Project](https://github.com/LadyHannelore/Movable-Type-Page) · [Day 1 notes](days/day-01.md) | 3 |
 | 2 | **Seven-Element Mana Chart (complete)** — I built a dependency-free web app that visualizes seven adjustable elemental affinities in an SVG radar chart. [Project](https://github.com/LadyHannelore/Seven-Element-Mana-Chart) · [Day 2 notes](days/day-02.md) | 5 |
 | 3 | **Tea Party Timing Game (complete)** — I built a short, self-contained game with six randomly selected library mishaps, choices to handle them, and a five o'clock deadline. [Project](https://github.com/LadyHannelore/Tea-Party-Timing-Game) · [Day 3 notes](days/day-03.md) | 4 |
-| 4 | **Library Schumil Reply Bot** — I will match a few keywords to prewritten, characterful replies; no LLM required. | 4 |
+| 4 | **Library Schumil Reply Bot (complete)** — I built a dependency-free reply desk that tokenizes messages, selects a hand-written reply by keyword matches, and provides a friendly fallback. [Project](https://github.com/LadyHannelore/Library-Schumil-Reply-Bot) · [Day 4 notes](days/day-04.md) | 4 |
 | 5 | **Ditter Board Prototype (scoped)** — I will move two pieces on a small grid and capture a marked tile. | 7 |
 | 6 | **Trombe Cellular Automaton** — I will show seeds spreading across a grid and clear them myself. | 5 |
 | 7 | **Gil Merchant Calculator** — I will convert between coin denominations and calculate a simple profit margin. | 3 |
