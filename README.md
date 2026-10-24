@@ -5,7 +5,7 @@ I work on, what I learn, and the projects I build along the way.
 
 ## Progress
 
-**2 / 100 days complete**
+**3 / 100 days complete**
 
 I’ll add a day’s notes in `days/day-XX.md` and update this count as I go.
 
@@ -13,6 +13,7 @@ I’ll add a day’s notes in `days/day-XX.md` and update this count as I go.
 
 - [Day 1 — Movable Type Page](days/day-01.md)
 - [Day 2 — Seven-Element Mana Chart](days/day-02.md)
+- [Day 3 — The Academy Library Dash](days/day-03.md)
 
 In each entry, I’ll write about:
 
