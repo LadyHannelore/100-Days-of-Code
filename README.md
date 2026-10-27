@@ -5,7 +5,7 @@ I work on, what I learn, and the projects I build along the way.
 
 ## Progress
 
-**4 / 100 days complete**
+**7 / 100 days complete**
 
 I’ll add a day’s notes in `days/day-XX.md` and update this count as I go.
 
@@ -22,9 +22,9 @@ Project details and risk scores are in the [roadmap](ROADMAP.md).
 | Thu 22 Oct | 2 | ✅ Seven-Element Mana Chart |
 | Fri 23 Oct | 3 | ✅ Tea Party Timing Game |
 | Sat 24 Oct | 4 | ✅ Library Schumil Reply Bot |
-| Sun 25 Oct | 5 | Ditter Board Prototype |
-| Mon 26 Oct | 6 | Trombe Cellular Automaton |
-| Tue 27 Oct | 7 | Gil Merchant Calculator |
+| Sun 25 Oct | 5 | ✅ Ditter Board Prototype |
+| Mon 26 Oct | 6 | ✅ Trombe Cellular Automaton |
+| Tue 27 Oct | 7 | ✅ Gil Merchant Calculator |
 | Wed 28 Oct | 8 | Feystone Color Toy |
 | Thu 29 Oct | 9 | Duchy Ranking Chart |
 | Fri 30 Oct | 10 | Seasonal Clock |
@@ -140,6 +140,9 @@ Project details and risk scores are in the [roadmap](ROADMAP.md).
 - [Day 2 — Seven-Element Mana Chart](days/day-02.md)
 - [Day 3 — The Academy Library Dash](days/day-03.md)
 - [Day 4 — Library Schumil Reply Bot](days/day-04.md)
+- [Day 5 — Ditter Board Prototype](days/day-05.md)
+- [Day 6 — Trombe Cellular Automaton](days/day-06.md)
+- [Day 7 — Gil Merchant Calculator](days/day-07.md)
 
 In each entry, I’ll write about:
 
